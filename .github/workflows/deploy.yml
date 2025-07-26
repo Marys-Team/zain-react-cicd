@@ -2,7 +2,7 @@ name: React CI/CD Deploy
 
 on:
   push:
-    branches: [deploy-branch]
+    branches: [zyn]
 
 jobs:
   deploy:
